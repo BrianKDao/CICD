@@ -1,0 +1,12 @@
+Flask
+Flask_Bootstrap
+Flask_HTTPAuth
+Flask_Moment
+Flask-SQLAlchemy
+SQLAlchemy
+Flask_WTF
+pytest
+requests
+requests-toolbelt
+WTForms
+gunicorn
